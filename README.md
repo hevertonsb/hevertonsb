@@ -1,4 +1,12 @@
-### Hi there 👋
+### Oi, eu sou o Heverton! 👋
+
+<a target="_blank" href="mailto:hevertonsb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/heverton-balducce/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+### Linguagens e Ferramentas
+
+<img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+
 
 <!--
 **hevertonsb/hevertonsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
