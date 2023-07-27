@@ -6,16 +6,16 @@
 ### Linguagens e Ferramentas
 
 <div align="left">
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" width="40" height="40"/>&nbsp;
+  <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40"/>&nbsp;
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40"/>&nbsp;
   <!--https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg-->
 </div>
 
